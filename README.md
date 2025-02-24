@@ -107,9 +107,9 @@ Vous pouvez générer des fichiers PDF pour la liste des candidats, les PV de d�
 Les fichiers PDF sont automatiquement ouverts après leur génération.
 
 ###### Auteurs
-[Atta fall] 
+[Atta Fall] 
 
-[Pape malick thiam] 
+[Papa malick thiam] 
 
 [Yacine ndiaga samb seck] 
 
