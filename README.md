@@ -111,6 +111,6 @@ Les fichiers PDF sont automatiquement ouverts après leur génération.
 
 [Pape malick thiam] 
 
-[Yacine ndiaga sam secck] 
+[Yacine ndiaga samb seck] 
 
 
